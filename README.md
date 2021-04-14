@@ -10,7 +10,7 @@ The rf_display_ssd1306 package is a wrapper for the Adafruit driver for the ssd1
 
 Example modules from Adafruit are
 (https://www.adafruit.com/product/661, or
-https://www.adafruit.com/product/3527), and nockoffs are available
+https://www.adafruit.com/product/3527), and knock-offs are available
 pretty much everywhere. 
 
 
