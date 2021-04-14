@@ -1,0 +1,4 @@
+<launch>
+       <node pkg="rf_display_ssd1306" name="rf_display_ssd1306" type="rf_display_ssd1306_node.py" respawn="true"/>
+       <node pkg="rf_display_ssd1306" name="rf_display_ssd1306_tester" type="rf_display_ssd1306_tester_node.py" respawn="true" output="screen"/>
+</launch>
